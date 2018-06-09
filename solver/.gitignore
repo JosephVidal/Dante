@@ -1,0 +1,16 @@
+# Backup files #
+################
+*~
+*#*
+
+# Illegal/useless files #
+#########################
+*.o
+*.a
+*.out
+*.rb
+
+# GDB files #
+#############
+*peda*
+*gdb*
